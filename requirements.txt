@@ -1,0 +1,11 @@
+pandas>=1.5
+numpy>=1.23
+requests>=2.28
+pvlib>=0.9
+ipyleaflet==0.19.2
+matplotlib>=3.6
+timezonefinder>=6.1
+pytz>=2023.3
+python-dotenv>=1.0
+plotly>=5.10
+nbformat>=4.2.0 
